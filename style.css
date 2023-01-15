@@ -180,12 +180,15 @@ color: #131313;
 }
 #main-section{
     display: flex;
+    
 }
+
 .main-image img{
     height: 702px;
     width: 100%;
     margin-left: 100px;
     padding-top: 154px;
+    
 }
 .main-image button{
     width: 250px;

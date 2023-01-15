@@ -6,4 +6,11 @@
     .logo{
         font-size: 25px;
     }
+    nav ul {
+        flex-direction: column;
+    }
+    .header-content img{
+        width: 100%;
+        height: 100%;
+    }
 }
